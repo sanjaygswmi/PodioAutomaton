@@ -1,0 +1,31 @@
+{
+  "name": "podio-community/podio-php",
+  "description": "PHP Client for Podio API",
+  "keywords": ["podio"],
+  "homepage": "http://github.com/podio/podio-php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniel Schreiber",
+      "email": "daniel-schreiber@gmx.de"
+    },
+    {
+      "name": "Andreas Haugstrup Pedersen",
+      "email": "haugstrup@podio.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "kint-php/kint": "^3.2"
+  },
+  "suggest": {
+    "kdyby/curl-ca-bundle": "Improve security through providing current CA ROOT certificates bundle"
+  },
+  "autoload": {
+    "classmap": ["lib/", "lib/error/", "models/", "models/field/"]
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.0",
+    "php-coveralls/php-coveralls": "^2.1"
+  }
+}

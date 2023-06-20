@@ -1,0 +1,6 @@
+{
+    "require": {
+        "podio-community/podio-php": "^5.1",
+        "clicksend/clicksend-php": "^5.0"
+    }
+}

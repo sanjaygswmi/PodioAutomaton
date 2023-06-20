@@ -1,0 +1,6 @@
+[19-Jun-2023 17:40:39 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE), expecting ')' in /home/papatwyb/public_html/projects/demo/PodioClickSend/sendSms.php on line 12
+[19-Jun-2023 17:44:53 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE), expecting ')' in /home/papatwyb/public_html/projects/demo/PodioClickSend/sendSms.php on line 12
+[19-Jun-2023 17:44:59 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE), expecting ')' in /home/papatwyb/public_html/projects/demo/PodioClickSend/sendSms.php on line 12
+[19-Jun-2023 17:45:03 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE), expecting ')' in /home/papatwyb/public_html/projects/demo/PodioClickSend/sendSms.php on line 12
+[19-Jun-2023 17:45:09 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE), expecting ')' in /home/papatwyb/public_html/projects/demo/PodioClickSend/sendSms.php on line 12
+[19-Jun-2023 17:47:48 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE), expecting ')' in /home/papatwyb/public_html/projects/demo/PodioClickSend/sendSms.php on line 12
